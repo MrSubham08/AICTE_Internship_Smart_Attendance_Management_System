@@ -1,0 +1,1 @@
+# AICTE_Internship_Smart_Attendance_Management_System
