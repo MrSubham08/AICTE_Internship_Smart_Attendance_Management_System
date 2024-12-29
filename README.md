@@ -1,6 +1,4 @@
-# AICTE_Internship_Smart_Attendance_Management_System
-
-# Attendance Management System using Facial Recognition
+# Smart_Attendance_Management_System
 
 Welcome to the **Attendance Management System**,a modern and efficient solution that leverages facial recognition technology to simplify and automate the process of recording attendance. This system integrates smart facial recognition capabilities with an intuitive interface, making attendance tracking seamless and flexible.
 
@@ -11,8 +9,7 @@ Welcome to the **Attendance Management System**,a modern and efficient solution 
 2. [Technologies Used](#technologies-used)  
 3. [Installation Guide](#installation-guide)  
 4. [Usage Guide](#usage-guide)  
-5. [License](#license)  
-
+  
 ---
 
 ## Features
